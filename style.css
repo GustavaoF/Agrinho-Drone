@@ -1,8 +1,17 @@
 .titulo {
     display: flex;
-    font-family: "JetBrains Mono", monospace;
-    font-optical-sizing: auto;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
     font-weight: 400;
     color: #000000;
 }
->>>>>>> 1d37f52b93fab81f1165ad93034c7e9333cf81e3
+
+.subtitulo {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-weight: 400;
+    color: #000000;
+}
