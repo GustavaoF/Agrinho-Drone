@@ -36,6 +36,7 @@ body{
 .intro {
     display: flex;
     flex: row;
+    background-color: #CDB190;
 }
 
 .text1 {
@@ -47,7 +48,6 @@ body{
     font-optical-sizing: auto;
     font-weight: 100;
     color: #000000;
-    background-color: #D9D9D9;
 }
 
 #drones1 {
