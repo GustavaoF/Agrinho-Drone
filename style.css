@@ -54,7 +54,20 @@ body{
     color: #000000;
 }
 
-.text2 {
+.joaotext {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-family: "Laila", monospace;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    color: #000000;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.gustatext {
     display: flex;
     justify-content: center;
     text-align: center;
