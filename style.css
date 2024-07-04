@@ -71,5 +71,6 @@ body{
 }
 
 .autor {
+    flex-direction: column;
     align-content: center;
 }
