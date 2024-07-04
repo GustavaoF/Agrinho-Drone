@@ -54,6 +54,19 @@ body{
     color: #000000;
 }
 
+.text2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-family: "Laila", monospace;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    color: #000000;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
 #foto {
     width: 30%;
     margin: 0px;
