@@ -39,7 +39,7 @@ body{
     background-color: #CDB190;
 }
 
-.text1 {
+.text {
     display: flex;
     justify-content: center;
     text-align: center;
@@ -50,7 +50,7 @@ body{
     color: #000000;
 }
 
-#drones1 {
+#foto {
     width: 30%;
     margin: 0px;
     align-self: center;
