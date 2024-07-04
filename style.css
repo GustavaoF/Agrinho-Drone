@@ -54,7 +54,7 @@ body{
     color: #000000;
 }
 
-.joaotext {
+.joão {
     display: flex;
     justify-content: center;
     text-align: center;
@@ -67,7 +67,7 @@ body{
     margin-inline-end: 0px;
 }
 
-.gustatext {
+.gustavo {
     display: flex;
     justify-content: center;
     text-align: center;
