@@ -33,6 +33,11 @@ body{
     height: 45px;
 }
 
+.intro {
+    display: flex;
+    flex: row;
+}
+
 .text1 {
     display: flex;
     justify-content: center;
