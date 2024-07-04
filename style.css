@@ -63,6 +63,7 @@ body{
     font-optical-sizing: auto;
     font-weight: 100;
     color: #000000;
+    font-size: 2em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
@@ -75,6 +76,7 @@ body{
     font-family: "Laila", monospace;
     font-optical-sizing: auto;
     font-weight: 100;
+    font-size: 2em;
     color: #000000;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
