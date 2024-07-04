@@ -79,7 +79,7 @@ body{
 }
 
 #foto {
-    width: 30%;
+    width: 20%;
     margin: 0px;
     align-self: center;
 }
@@ -91,13 +91,13 @@ body{
 }
 
 #foto3 {
-    width: 30%;
+    width: 10%;
     margin: 0px;
     margin-inline-start: 80px;
 }
 
 #foto4 {
-    width: 30%;
+    width: 10%;
     margin: 0px;
     margin-inline-start: 80px;
 }
