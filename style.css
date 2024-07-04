@@ -66,6 +66,10 @@ body{
     align-self: center;
 }
 
-.margem{
-padding: 10px;    
+.margem {
+    padding: 10px;    
+}
+
+.autor {
+    align-items: center;
 }
