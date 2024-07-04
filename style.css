@@ -39,6 +39,10 @@ body{
     background-color: #CDB190;
 }
 
+.Importância {
+    background-color: #7BA448;
+}
+
 .text {
     display: flex;
     justify-content: center;
