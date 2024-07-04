@@ -43,6 +43,10 @@ body{
     background-color: #7BA448;
 }
 
+.autores {
+    background-color: #47670a;
+}
+
 .text {
     display: flex;
     justify-content: center;
